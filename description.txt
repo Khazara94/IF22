@@ -12,7 +12,7 @@ function 1hSOS()
 					re 5 ♣, 3 ♠
 end
 function negative1d(r1, r2, r3, r4)
-	1d $(r1) PC, any distribution
+	1d 11-22 PC, any distribution
 		1h natural, NF
 		1s natural, NF
 		1n at least F1, GF to $(r3) PC range
