@@ -11,7 +11,7 @@ function 1hSOS()
 					1s 4 ♣, 4 ♠
 					re 5 ♣, 3 ♠
 end
-function negative1d(r1, r2, r3, r4)
+function 1d(r1, r2, r3, r4)
 	1d 11-22 PC, any distribution
 		1h natural, NF
 		1s natural, NF
